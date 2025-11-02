@@ -1,0 +1,30 @@
+{
+  "certificates": [
+    {
+      "id": 1,
+      "title": "Attendance Certificate",
+      "title_ar": "شهادة حضور",
+      "title_fr": "Certificat d'assistance",
+      "file_url": "https://example.com/attendance_template.pdf",
+      "category": "training",
+      "fields": ["name", "course", "date", "hours"],
+      "description": "Template for attendance certificates",
+      "description_ar": "قالب شهادات الحضور",
+      "description_fr": "Modèle de certificats de présence"
+    },
+    {
+      "id": 2,
+      "title": "Achievement Certificate",
+      "title_ar": "شهادة تقدير",
+      "title_fr": "Certificat d'accomplissement",
+      "file_url": "https://example.com/achievement_template.pdf",
+      "category": "achievement",
+      "fields": ["name", "achievement", "date", "issuer"],
+      "description": "Template for achievement certificates",
+      "description_ar": "قالب شهادات الإنجاز",
+      "description_fr": "Modèle de certificats d'accomplissement"
+    }
+  ],
+  "status": "success",
+  "timestamp": "2024-11-01T23:03:52.088Z"
+}
