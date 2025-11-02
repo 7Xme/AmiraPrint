@@ -18,6 +18,23 @@
       "updated_at": "2024-01-01T00:00:00Z"
     },
     {
+      "id": 5,
+      "name": "hh",
+      "name_ar": "hh",
+      "name_fr": "hh",
+      "price": 5.0,
+      "barcode": "545454",
+      "image_url": "https://example.com/pen.jpg",
+      "category": "Stationery",
+      "description": "Blue ink pen",
+      "description_ar": "قلم حبر أزرق",
+      "description_fr": "Stylo à encre bleue",
+      "stock_quantity": 100,
+      "is_active": true,
+      "created_at": "2024-01-01T00:00:00Z",
+      "updated_at": "2024-01-01T00:00:00Z"
+    },
+    {
       "id": 2,
       "name": "Notebook",
       "name_ar": "دفتر",
