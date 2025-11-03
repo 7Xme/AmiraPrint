@@ -1,34 +1,64 @@
 {
   "documents": [
     {
-      "id": 1,
-      "title": "Employment Request",
-      "title_ar": "طلب توظيف",
-      "title_fr": "Demande d'emploi",
-      "file_url": "https://example.com/employment_request.pdf",
-      "file_type": "pdf",
-      "category": "employment",
-      "description": "Job application form",
-      "description_ar": "نموذج طلب وظيفة",
-      "description_fr": "Formulaire de demande d'emploi",
-      "languages": ["ar", "fr", "en"],
-      "created_at": "2024-01-01T00:00:00Z"
+      "name": "فاتورة ضريبية",
+      "category": "فواتير",
+      "template": "invoice_ar_tax",
+      "pdf_link": "https://pdfobject.com/pdf/sample.pdf"
     },
     {
-      "id": 2,
-      "title": "Birth Certificate",
-      "title_ar": "شهادة ميلاد",
-      "title_fr": "Certificat de naissance",
-      "file_url": "https://example.com/birth_certificate.pdf",
-      "file_type": "pdf",
-      "category": "official",
-      "description": "Official birth certificate",
-      "description_ar": "شهادة ميلاد رسمية",
-      "description_fr": "Certificat de naissance officiel",
-      "languages": ["ar", "fr"],
-      "created_at": "2024-01-01T00:00:00Z"
+      "name": "فاتورة بيع",
+      "category": "فواتير",
+      "template": "invoice_ar_sale",
+      "pdf_link": "https://pdfobject.com/pdf/sample.pdf"
+    },
+    {
+      "name": "فاتورة شراء",
+      "category": "فواتير",
+      "template": "invoice_ar_purchase",
+      "pdf_link": "https://pdfobject.com/pdf/sample.pdf"
+    },
+    {
+      "name": "شهادة ميلاد",
+      "category": "شواهد",
+      "template": "certificate_ar_birth",
+      "pdf_link": "https://pdfobject.com/pdf/sample.pdf"
+    },
+    {
+      "name": "إفادة إقامة",
+      "category": "شواهد",
+      "template": "certificate_ar_residence",
+      "pdf_link": "https://pdfobject.com/pdf/sample.pdf"
+    },
+    {
+      "name": "عقد إيجار",
+      "category": "عقود",
+      "template": "contract_ar_rental",
+      "pdf_link": "https://example.com/templates/contract_rental.pdf"
+    },
+    {
+      "name": "عقد عمل",
+      "category": "عقود",
+      "template": "contract_ar_employment",
+      "pdf_link": "https://example.com/templates/contract_employment.pdf"
+    },
+    {
+      "name": "جواز سفر",
+      "category": "وثائق الزمرة",
+      "template": "document_ar_passport",
+      "pdf_link": "https://example.com/templates/document_passport.pdf"
+    },
+    {
+      "name": "بطاقة هوية",
+      "category": "وثائق الزمرة",
+      "template": "document_ar_id",
+      "pdf_link": "https://pdfobject.com/pdf/sample.pdf"
+    },
+    {
+      "name": "رخصة قيادة",
+      "category": "وثائق الزمرة",
+      "template": "document_ar_license",
+      "pdf_link": "https://example.com/templates/document_license.pdf"
     }
-  ],
-  "status": "success",
-  "timestamp": "2024-11-01T23:03:19.876Z"
+  ]
 }
