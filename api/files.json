@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "name": "فاتورة ضريبية",
+      "category": "فواتير",
+      "pdf_link": "https://example.com/files/invoice_tax.pdf"
+    },
+    {
+      "name": "إفادة إقامة",
+      "category": "إفادات رسمية",
+      "pdf_link": "https://example.com/files/residence_certificate.pdf"
+    },
+    {
+      "name": "شهادة ميلاد",
+      "category": "شواهد",
+      "pdf_link": "https://example.com/files/birth_certificate.pdf"
+    },
+    {
+      "name": "طلب توظيف",
+      "category": "طلبات",
+      "pdf_link": "https://example.com/files/employment_request.pdf"
+    },
+    {
+      "name": "عقد إيجار",
+      "category": "عقود",
+      "pdf_link": "https://example.com/files/rental_agreement.pdf"
+    },
+    {
+      "name": "تقرير مدرسي",
+      "category": "تقارير",
+      "pdf_link": "https://example.com/files/school_report.pdf"
+    }
+  ]
+}
