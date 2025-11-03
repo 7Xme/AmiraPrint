@@ -11,6 +11,11 @@
       "pdf_link": "https://example.com/files/residence_certificate.pdf"
     },
     {
+      "name": "إفادة إقامة",
+      "category": "إفادات رسمية",
+      "pdf_link": "https://example.com/files/residence_certificate.pdf"
+    },
+    {
       "name": "شهادة ميلاد",
       "category": "شواهد",
       "pdf_link": "https://example.com/files/birth_certificate.pdf"
