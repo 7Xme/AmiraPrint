@@ -1,0 +1,18 @@
+{
+  "researches": [
+    {
+      "id": "climate_change",
+      "title": "تغير المناخ وتأثيره على المغرب",
+      "author": "د. أحمد العلمي",
+      "category": "العلوم البيئية",
+      "pdf_url": "https://amira-print.vercel.app/files/climate_change.pdf"
+    },
+    {
+      "id": "ai_ethics",
+      "title": "أخلاقيات الذكاء الاصطناعي",
+      "author": "د. ليلى الزهراء",
+      "category": "التكنولوجيا",
+      "pdf_url": "https://amira-print.vercel.app/files/ai_ethics.pdf"
+    }
+  ]
+}
