@@ -1,24 +1,4 @@
 {
-  "min_required_version": "2.0.0",
-  "app_name": "AmiraPrint",
-  "description": "الإصدار المطلوب لتطبيق AmiraPrint",
-  "release_notes": {
-    "version": "2.0.0",
-    "features": [
-      "تحسينات في الأداء",
-      "إصلاحات للأخطاء",
-      "ميزات جديدة لإدارة المبيعات"
-    ],
-    "critical": true,
-    "mandatory": true
-  },
-  "download_url": "https://mydomain.com/download",
-  "update_date": "2025-11-02",
-  "supported_platforms": [
-    "windows",
-    "linux", 
-    "macos",
-    "android",
-    "ios"
-  ]
+  "version": "1.0.2",
+  "download_url": "https://amira-print.vercel.app/download"
 }
