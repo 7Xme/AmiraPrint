@@ -1,0 +1,16 @@
+{
+  "id": "marriage",
+  "title": "الوثائق المطلوبة للزواج",
+  "items": [
+    {
+      "name": "نسخة من بطاقة التعريف الوطنية",
+      "description": "لكل من الزوج والزوجة، سارية المفعول",
+      "image_url": "https://example.com/images/national_id.jpg"
+    },
+    {
+      "name": "شهادة الإقامة",
+      "description": "مسلمة من الجماعة أو المقاطعة",
+      "image_url": "https://example.com/images/residence_certificate.jpg"
+    }
+  ]
+}
