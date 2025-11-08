@@ -2,7 +2,7 @@
   "version": "1.1",
   "products": [
     {
-      "id": 999,
+      "id": 1,
       "name": "555",
       "name_ar": "54646",
       "name_fr": "Stylo",
@@ -19,7 +19,7 @@
       "updated_at": "2024-01-01T00:00:00Z"
     },
     {
-      "id": 5,
+      "id": 2,
       "name": "hh",
       "name_ar": "hh",
       "name_fr": "hh",
@@ -36,7 +36,7 @@
       "updated_at": "2024-01-01T00:00:00Z"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Notebook",
       "name_ar": "دفتر",
       "name_fr": "Carnet",
