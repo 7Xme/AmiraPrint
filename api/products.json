@@ -517,7 +517,7 @@
             "name_ar": "",
             "name_fr": "Mot de passe CE2  manuel + cahier d'activités",
             "price": 341.0,
-            "barcode": "000000012685",
+            "barcode": "9782013941617",
             "category": "Books",
             "description": "Book: Mot de passe CE2  manuel + cahier d'activités",
             "description_ar": "",
@@ -526,7 +526,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148892Z",
             "updated_at": "2025-11-08T18:49:33.148894Z",
-            "image_url": ""
+            "image_url": "9782013941617.jpg"
         },
         {
             "id": 32,
@@ -534,7 +534,7 @@
             "name_ar": "",
             "name_fr": "Mot de passe CM1 manuel + cahier d'activité",
             "price": 346.0,
-            "barcode": "000000012745",
+            "barcode": "9782017009146",
             "category": "Books",
             "description": "Book: Mot de passe CM1 manuel + cahier d'activité",
             "description_ar": "",
@@ -543,7 +543,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148899Z",
             "updated_at": "2025-11-08T18:49:33.148901Z",
-            "image_url": ""
+            "image_url": "9782017009146.jpg"
         },
         {
             "id": 33,
@@ -551,7 +551,7 @@
             "name_ar": "فضاء الرياضيات السنة الثانية من التعليم الإبتدائي مطبعة المعارف الجديدة",
             "name_fr": "",
             "price": 13.5,
-            "barcode": "000000012969",
+            "barcode": "9789954200094",
             "category": "Books",
             "description": "Book: فضاء الرياضيات السنة الثانية من التعليم الإبتدائي مطبعة المعارف الجديدة",
             "description_ar": "كتاب: فضاء الرياضيات السنة الثانية من التعليم الإبتدائي مطبعة المعارف الجديدة",
@@ -560,7 +560,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148907Z",
             "updated_at": "2025-11-08T18:49:33.148908Z",
-            "image_url": ""
+            "image_url": "9789954200094.jpg"
         },
         {
             "id": 34,
@@ -568,7 +568,7 @@
             "name_ar": "النجاح في الرياضيات السنة الخامسة ابتدائي طبعة جديدة و منقحة",
             "name_fr": "",
             "price": 15.0,
-            "barcode": "000000012992",
+            "barcode": "9789920761079",
             "category": "Books",
             "description": "Book: النجاح في الرياضيات السنة الخامسة ابتدائي طبعة جديدة و منقحة",
             "description_ar": "كتاب: النجاح في الرياضيات السنة الخامسة ابتدائي طبعة جديدة و منقحة",
@@ -577,15 +577,15 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148915Z",
             "updated_at": "2025-11-08T18:49:33.148916Z",
-            "image_url": ""
+            "image_url": "9789920761079.jpg"
         },
         {
             "id": 35,
-            "name": "Informatique et Robotique  au primaire 6",
+            "name": "De l’informatique à la robotique - Niveau 6",
             "name_ar": "",
-            "name_fr": "Informatique et Robotique  au primaire 6",
+            "name_fr": "De l’informatique à la robotique - Niveau 6",
             "price": 77.0,
-            "barcode": "000000013293",
+            "barcode": "9786144893173",
             "category": "Books",
             "description": "Book: Informatique et Robotique  au primaire 6",
             "description_ar": "",
@@ -594,7 +594,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148922Z",
             "updated_at": "2025-11-08T18:49:33.148923Z",
-            "image_url": ""
+            "image_url": "9786144893173.jpg"
         },
         {
             "id": 36,
@@ -602,7 +602,7 @@
             "name_ar": "",
             "name_fr": "Les cahiers istra questionner le monde sciences CM1 Adapté au programme marocain",
             "price": 82.0,
-            "barcode": "000000022580",
+            "barcode": "9782013947886",
             "category": "Books",
             "description": "Book: Les cahiers istra questionner le monde sciences CM1 Adapté au programme marocain",
             "description_ar": "",
@@ -611,7 +611,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148930Z",
             "updated_at": "2025-11-08T18:49:33.148932Z",
-            "image_url": ""
+            "image_url": "9782013947886.jpg"
         },
         {
             "id": 37,
@@ -619,7 +619,7 @@
             "name_ar": "",
             "name_fr": "Pack Coccinelle CM1 Manuel + cahier d'activité",
             "price": 310.0,
-            "barcode": "000000012720",
+            "barcode": "9782401083318",
             "category": "Books",
             "description": "Book: Pack Coccinelle CM1 Manuel + cahier d'activité",
             "description_ar": "",
@@ -628,7 +628,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148938Z",
             "updated_at": "2025-11-08T18:49:33.148940Z",
-            "image_url": ""
+            "image_url": "9782401083318.jpg"
         },
         {
             "id": 38,
@@ -636,7 +636,7 @@
             "name_ar": "",
             "name_fr": "Pixel Informatique 5",
             "price": 82.0,
-            "barcode": "000000013291",
+            "barcode": "9789920914833",
             "category": "Books",
             "description": "Book: Pixel Informatique 5",
             "description_ar": "",
@@ -645,7 +645,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148945Z",
             "updated_at": "2025-11-08T18:49:33.148947Z",
-            "image_url": ""
+            "image_url": "9789920914833.jpg"
         },
         {
             "id": 39,
@@ -653,7 +653,7 @@
             "name_ar": "",
             "name_fr": "Pack Coccinelle CM2 Manuel + cahier d’activités nouvelle édition 2022",
             "price": 310.0,
-            "barcode": "000000012778",
+            "barcode": "9782401083325",
             "category": "Books",
             "description": "Book: Pack Coccinelle CM2 Manuel + cahier d’activités nouvelle édition 2022",
             "description_ar": "",
@@ -662,7 +662,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148953Z",
             "updated_at": "2025-11-08T18:49:33.148955Z",
-            "image_url": ""
+            "image_url": "9782401083325.jpg"
         },
         {
             "id": 40,
@@ -670,7 +670,7 @@
             "name_ar": "في رحاب اللغة العربية السنة التانية اعدادي",
             "name_fr": "",
             "price": 23.0,
-            "barcode": "000000014532",
+            "barcode": "9789981144798",
             "category": "Books",
             "description": "Book: في رحاب اللغة العربية السنة التانية اعدادي",
             "description_ar": "كتاب: في رحاب اللغة العربية السنة التانية اعدادي",
@@ -679,7 +679,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148961Z",
             "updated_at": "2025-11-08T18:49:33.148963Z",
-            "image_url": ""
+            "image_url": "9789981144798.jpg"
         },
         {
             "id": 41,
@@ -687,7 +687,7 @@
             "name_ar": "المختار في النشاط العلمي للسنة الثانية من التعليم الإبتدائي",
             "name_fr": "",
             "price": 10.0,
-            "barcode": "000000013071",
+            "barcode": "9920762021",
             "category": "Books",
             "description": "Book: المختار في النشاط العلمي للسنة الثانية من التعليم الإبتدائي",
             "description_ar": "كتاب: المختار في النشاط العلمي للسنة الثانية من التعليم الإبتدائي",
@@ -696,7 +696,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148969Z",
             "updated_at": "2025-11-08T18:49:33.148971Z",
-            "image_url": ""
+            "image_url": "9920762021.jpg"
         },
         {
             "id": 42,
@@ -704,7 +704,7 @@
             "name_ar": "",
             "name_fr": "Informatique et Robotique  au primaire 4",
             "price": 77.0,
-            "barcode": "000000013287",
+            "barcode": "9789954740170",
             "category": "Books",
             "description": "Book: Informatique et Robotique  au primaire 4",
             "description_ar": "",
@@ -713,7 +713,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148976Z",
             "updated_at": "2025-11-08T18:49:33.148979Z",
-            "image_url": ""
+            "image_url": "9789954740170.jpg"
         },
         {
             "id": 43,
@@ -721,7 +721,7 @@
             "name_ar": "",
             "name_fr": "Pixel informatique 1",
             "price": 82.0,
-            "barcode": "000000013281",
+            "barcode": "9789920914840",
             "category": "Books",
             "description": "Book: Pixel informatique 1",
             "description_ar": "",
@@ -730,7 +730,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148984Z",
             "updated_at": "2025-11-08T18:49:33.148986Z",
-            "image_url": ""
+            "image_url": "9789920914840.jpg"
         },
         {
             "id": 44,
@@ -738,7 +738,7 @@
             "name_ar": "في رحاب الفلسفة جدع مشترك",
             "name_fr": "",
             "price": 19.5,
-            "barcode": "000000022990",
+            "barcode": "9789981144996",
             "category": "Books",
             "description": "Book: في رحاب الفلسفة جدع مشترك",
             "description_ar": "كتاب: في رحاب الفلسفة جدع مشترك",
@@ -747,7 +747,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.148992Z",
             "updated_at": "2025-11-08T18:49:33.148994Z",
-            "image_url": ""
+            "image_url": "9789981144996.jpg"
         },
         {
             "id": 45,
@@ -755,7 +755,7 @@
             "name_ar": "منار التاريخ والجغرافيا جدع مشترك",
             "name_fr": "",
             "price": 35.0,
-            "barcode": "000000022992",
+            "barcode": "9789954436134",
             "category": "Books",
             "description": "Book: منار التاريخ والجغرافيا جدع مشترك",
             "description_ar": "كتاب: منار التاريخ والجغرافيا جدع مشترك",
@@ -764,7 +764,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149000Z",
             "updated_at": "2025-11-08T18:49:33.149002Z",
-            "image_url": ""
+            "image_url": "9789954436134.jpg"
         },
         {
             "id": 46,
@@ -772,7 +772,7 @@
             "name_ar": "",
             "name_fr": "Pixel Informatique 3",
             "price": 82.0,
-            "barcode": "000000013285",
+            "barcode": "9789920914895",
             "category": "Books",
             "description": "Book: Pixel Informatique 3",
             "description_ar": "",
@@ -781,7 +781,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149008Z",
             "updated_at": "2025-11-08T18:49:33.149010Z",
-            "image_url": ""
+            "image_url": "9789920914895.jpg"
         },
         {
             "id": 47,
@@ -789,7 +789,7 @@
             "name_ar": "",
             "name_fr": "Pixel Informatique 4",
             "price": 82.0,
-            "barcode": "000000013288",
+            "barcode": "9789920914871",
             "category": "Books",
             "description": "Book: Pixel Informatique 4",
             "description_ar": "",
@@ -798,7 +798,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149016Z",
             "updated_at": "2025-11-08T18:49:33.149017Z",
-            "image_url": ""
+            "image_url": "9789920914871.jpg"
         },
         {
             "id": 48,
@@ -806,7 +806,7 @@
             "name_ar": "",
             "name_fr": "Informatique et Robotique  au primaire 5",
             "price": 77.0,
-            "barcode": "000000013290",
+            "barcode": "9789920600484",
             "category": "Books",
             "description": "Book: Informatique et Robotique  au primaire 5",
             "description_ar": "",
@@ -815,7 +815,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149023Z",
             "updated_at": "2025-11-08T18:49:33.149025Z",
-            "image_url": ""
+            "image_url": "9789920600484.jpg"
         },
         {
             "id": 49,
@@ -823,7 +823,7 @@
             "name_ar": "",
             "name_fr": "Coquelicot CE6 Manuel + cahier d’activités",
             "price": 247.0,
-            "barcode": "000000012789",
+            "barcode": "9782753111202",
             "category": "Books",
             "description": "Book: Coquelicot CE6 Manuel + cahier d’activités",
             "description_ar": "",
@@ -832,7 +832,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149031Z",
             "updated_at": "2025-11-08T18:49:33.149033Z",
-            "image_url": ""
+            "image_url": "9782753111202.jpg"
         },
         {
             "id": 50,
@@ -840,7 +840,7 @@
             "name_ar": "",
             "name_fr": "Informatique et Robotique  au primaire 2",
             "price": 70.0,
-            "barcode": "000000013282",
+            "barcode": "9789920600460",
             "category": "Books",
             "description": "Book: Informatique et Robotique  au primaire 2",
             "description_ar": "",
@@ -849,7 +849,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149038Z",
             "updated_at": "2025-11-08T18:49:33.149040Z",
-            "image_url": ""
+            "image_url": "9789920600460.jpg"
         },
         {
             "id": 51,
@@ -857,7 +857,7 @@
             "name_ar": "",
             "name_fr": "Plan Comptable général Marocain",
             "price": 30.0,
-            "barcode": "000000013321",
+            "barcode": "9782216096060",
             "category": "Books",
             "description": "Book: Plan Comptable général Marocain",
             "description_ar": "",
@@ -866,7 +866,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149045Z",
             "updated_at": "2025-11-08T18:49:33.149047Z",
-            "image_url": ""
+            "image_url": "9782216096060.jpg"
         },
         {
             "id": 52,
@@ -874,7 +874,7 @@
             "name_ar": "",
             "name_fr": "Pour comprendre les maths CE2 Fichier Elève + Mémo Ed 2020",
             "price": 186.0,
-            "barcode": "000000014393",
+            "barcode": "9782016272473",
             "category": "Books",
             "description": "Book: Pour comprendre les maths CE2 Fichier Elève + Mémo Ed 2020",
             "description_ar": "",
@@ -883,7 +883,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149053Z",
             "updated_at": "2025-11-08T18:49:33.149054Z",
-            "image_url": ""
+            "image_url": "9782016272473.jpg"
         },
         {
             "id": 53,
@@ -891,7 +891,7 @@
             "name_ar": "الرائد في اللغة العربية السنة الأولى اعدادي طبعة جديدة",
             "name_fr": "",
             "price": 21.5,
-            "barcode": "000000022739",
+            "barcode": "9789981240322",
             "category": "Books",
             "description": "Book: الرائد في اللغة العربية السنة الأولى اعدادي طبعة جديدة",
             "description_ar": "كتاب: الرائد في اللغة العربية السنة الأولى اعدادي طبعة جديدة",
@@ -900,7 +900,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149061Z",
             "updated_at": "2025-11-08T18:49:33.149062Z",
-            "image_url": ""
+            "image_url": "9789981240322.jpg"
         },
         {
             "id": 54,
@@ -908,7 +908,7 @@
             "name_ar": "",
             "name_fr": "Kid's box 3 (Pupil's book + activity book) NEW GEN",
             "price": 285.0,
-            "barcode": "000000013188",
+            "barcode": "9781108815826",
             "category": "Books",
             "description": "Book: Kid's box 3 (Pupil's book + activity book) NEW GEN",
             "description_ar": "",
@@ -917,7 +917,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149068Z",
             "updated_at": "2025-11-08T18:49:33.149070Z",
-            "image_url": ""
+            "image_url": "9781108815826.jpg"
         },
         {
             "id": 55,
@@ -925,7 +925,7 @@
             "name_ar": "",
             "name_fr": "Les Cahiers de la luciole CM2 programme marocain",
             "price": 97.0,
-            "barcode": "000000023153",
+            "barcode": "9782218955822",
             "category": "Books",
             "description": "Book: Les Cahiers de la luciole CM2 programme marocain",
             "description_ar": "",
@@ -934,7 +934,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149075Z",
             "updated_at": "2025-11-08T18:49:33.149077Z",
-            "image_url": ""
+            "image_url": "9782218955822.jpg"
         },
         {
             "id": 56,
@@ -942,7 +942,7 @@
             "name_ar": "",
             "name_fr": "Informatique et Robotique  au primaire 3",
             "price": 77.0,
-            "barcode": "000000013284",
+            "barcode": "9789920696036",
             "category": "Books",
             "description": "Book: Informatique et Robotique  au primaire 3",
             "description_ar": "",
@@ -951,7 +951,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149083Z",
             "updated_at": "2025-11-08T18:49:33.149085Z",
-            "image_url": ""
+            "image_url": "9789920696036.jpg"
         },
         {
             "id": 57,
@@ -959,7 +959,7 @@
             "name_ar": "مفكرتي للنصوص و المراسلات المدرسية",
             "name_fr": "",
             "price": 28.0,
-            "barcode": "000000014440",
+            "barcode": "9789954247174",
             "category": "Books",
             "description": "Book: مفكرتي للنصوص و المراسلات المدرسية",
             "description_ar": "كتاب: مفكرتي للنصوص و المراسلات المدرسية",
@@ -968,7 +968,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149090Z",
             "updated_at": "2025-11-08T18:49:33.149092Z",
-            "image_url": ""
+            "image_url": "9789954247174.jpg"
         },
         {
             "id": 58,
@@ -976,7 +976,7 @@
             "name_ar": "في رحاب التربية الاسلامية  السنة الأولى من التعليم الثانوي الاعدادي",
             "name_fr": "",
             "price": 15.5,
-            "barcode": "000000022737",
+            "barcode": "9789954455463",
             "category": "Books",
             "description": "Book: في رحاب التربية الاسلامية  السنة الأولى من التعليم الثانوي الاعدادي",
             "description_ar": "كتاب: في رحاب التربية الاسلامية  السنة الأولى من التعليم الثانوي الاعدادي",
@@ -985,7 +985,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149100Z",
             "updated_at": "2025-11-08T18:49:33.149102Z",
-            "image_url": ""
+            "image_url": "9789954455463.jpg"
         },
         {
             "id": 59,
@@ -993,7 +993,7 @@
             "name_ar": "منار الاجتماعيات السنة الثانية اعدادي",
             "name_fr": "",
             "price": 21.5,
-            "barcode": "000000022740",
+            "barcode": "9789954241905",
             "category": "Books",
             "description": "Book: منار الاجتماعيات السنة الثانية اعدادي",
             "description_ar": "كتاب: منار الاجتماعيات السنة الثانية اعدادي",
@@ -1002,7 +1002,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149107Z",
             "updated_at": "2025-11-08T18:49:33.149109Z",
-            "image_url": ""
+            "image_url": "9789954241905.jpg"
         },
         {
             "id": 60,
@@ -1010,7 +1010,7 @@
             "name_ar": "الجديد في اللغة العربية السنة الرابعة ابتدائي",
             "name_fr": "",
             "price": 23.5,
-            "barcode": "000000022809",
+            "barcode": "9789954691670",
             "category": "Books",
             "description": "Book: الجديد في اللغة العربية السنة الرابعة ابتدائي",
             "description_ar": "كتاب: الجديد في اللغة العربية السنة الرابعة ابتدائي",
@@ -1019,7 +1019,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149114Z",
             "updated_at": "2025-11-08T18:49:33.149116Z",
-            "image_url": ""
+            "image_url": "9789954691670.jpg"
         },
         {
             "id": 61,
@@ -1027,7 +1027,7 @@
             "name_ar": "",
             "name_fr": "Taoki et compagnie CP cahier d'activités 1 et 2 + cahier d’écriture",
             "price": 460.0,
-            "barcode": "000000012642",
+            "barcode": "9782013947763",
             "category": "Books",
             "description": "Book: Taoki et compagnie CP cahier d'activités 1 et 2 + cahier d’écriture",
             "description_ar": "",
@@ -1036,7 +1036,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149123Z",
             "updated_at": "2025-11-08T18:49:33.149125Z",
-            "image_url": ""
+            "image_url": "9782013947763.jpg"
         },
         {
             "id": 62,
@@ -1044,7 +1044,7 @@
             "name_ar": "المعتمد في التربية الفنية السنة السادسة من التعليم الابتدائي",
             "name_fr": "",
             "price": 16.0,
-            "barcode": "000000013277",
+            "barcode": "9789981883212",
             "category": "Books",
             "description": "Book: المعتمد في التربية الفنية السنة السادسة من التعليم الابتدائي",
             "description_ar": "كتاب: المعتمد في التربية الفنية السنة السادسة من التعليم الابتدائي",
@@ -1053,15 +1053,15 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149131Z",
             "updated_at": "2025-11-08T18:49:33.149132Z",
-            "image_url": ""
+            "image_url": "9789981883212.jpg"
         },
         {
             "id": 63,
             "name": "Informatique et Robotique  au primaire 1",
-            "name_ar": "",
+            "name_ar": "9789920696050",
             "name_fr": "Informatique et Robotique  au primaire 1",
             "price": 70.0,
-            "barcode": "000000013444",
+            "barcode": "",
             "category": "Books",
             "description": "Book: Informatique et Robotique  au primaire 1",
             "description_ar": "",
@@ -1070,7 +1070,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149138Z",
             "updated_at": "2025-11-08T18:49:33.149140Z",
-            "image_url": ""
+            "image_url": "9789920696050.jpg"
         },
         {
             "id": 64,
@@ -1078,7 +1078,7 @@
             "name_ar": "",
             "name_fr": "Pour comprendre les mathématiques CM2",
             "price": 189.0,
-            "barcode": "000000013000",
+            "barcode": "9782017158233",
             "category": "Books",
             "description": "Book: Pour comprendre les mathématiques CM2",
             "description_ar": "",
@@ -1087,7 +1087,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149145Z",
             "updated_at": "2025-11-08T18:49:33.149147Z",
-            "image_url": ""
+            "image_url": "9782017158233.jpg"
         },
         {
             "id": 65,
@@ -1095,7 +1095,7 @@
             "name_ar": "فضاء التربية الاسلامية  السنة الاولى اعدادي",
             "name_fr": "",
             "price": 15.5,
-            "barcode": "000000013056",
+            "barcode": "9789954200414",
             "category": "Books",
             "description": "Book: فضاء التربية الاسلامية  السنة الاولى اعدادي",
             "description_ar": "كتاب: فضاء التربية الاسلامية  السنة الاولى اعدادي",
@@ -1104,7 +1104,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149154Z",
             "updated_at": "2025-11-08T18:49:33.149156Z",
-            "image_url": ""
+            "image_url": "9789954200414.jpg"
         },
         {
             "id": 66,
@@ -1112,7 +1112,7 @@
             "name_ar": "",
             "name_fr": "Les cahiers de la luciole CM1 édition 2021 Sciences programme marocain",
             "price": 97.0,
-            "barcode": "000000022572",
+            "barcode": "9782218945991",
             "category": "Books",
             "description": "Book: Les cahiers de la luciole CM1 édition 2021 Sciences programme marocain",
             "description_ar": "",
@@ -1121,7 +1121,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149163Z",
             "updated_at": "2025-11-08T18:49:33.149165Z",
-            "image_url": ""
+            "image_url": "9782218945991.jpg"
         },
         {
             "id": 67,
@@ -1129,7 +1129,7 @@
             "name_ar": "",
             "name_fr": "Les cahiers de la luciole sciences CE2 découverte du monde Programme marocain",
             "price": 81.0,
-            "barcode": "000000022575",
+            "barcode": "9782218945984",
             "category": "Books",
             "description": "Book: Les cahiers de la luciole sciences CE2 découverte du monde Programme marocain",
             "description_ar": "",
@@ -1138,7 +1138,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149173Z",
             "updated_at": "2025-11-08T18:49:33.149174Z",
-            "image_url": ""
+            "image_url": "9782218945984.jpg"
         },
         {
             "id": 68,
@@ -1146,7 +1146,7 @@
             "name_ar": "المفيد في الاجتماعيات السنة الخامسة ابتدائي",
             "name_fr": "",
             "price": 17.0,
-            "barcode": "000000024207",
+            "barcode": "9789954658482",
             "category": "Books",
             "description": "Book: المفيد في الاجتماعيات السنة الخامسة ابتدائي",
             "description_ar": "كتاب: المفيد في الاجتماعيات السنة الخامسة ابتدائي",
@@ -1155,7 +1155,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149180Z",
             "updated_at": "2025-11-08T18:49:33.149182Z",
-            "image_url": ""
+            "image_url": "9789954658482.jpg"
         },
         {
             "id": 69,
@@ -1163,7 +1163,7 @@
             "name_ar": "",
             "name_fr": "Kid's box 4 ( pupil's book / activity book)",
             "price": 285.0,
-            "barcode": "000000013196",
+            "barcode": "9781108889971",
             "category": "Books",
             "description": "Book: Kid's box 4 ( pupil's book / activity book)",
             "description_ar": "",
@@ -1172,15 +1172,15 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149188Z",
             "updated_at": "2025-11-08T18:49:33.149189Z",
-            "image_url": ""
+            "image_url": "9781108889971.jpg"
         },
         {
             "id": 70,
-            "name": "Kid's box starter updated second edition",
+            "name": "Kid's box starter 1 updated second edition",
             "name_ar": "",
             "name_fr": "Kid's box starter updated second edition",
             "price": 150.0,
-            "barcode": "000000023002",
+            "barcode": "9781108895439",
             "category": "Books",
             "description": "Book: Kid's box starter updated second edition",
             "description_ar": "",
@@ -1189,7 +1189,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149195Z",
             "updated_at": "2025-11-08T18:49:33.149197Z",
-            "image_url": ""
+            "image_url": "9781108895439.jpg"
         },
         {
             "id": 71,
@@ -1197,7 +1197,7 @@
             "name_ar": "الرائد في التربية الاسلامية  السنة الثالثة اعدادي",
             "name_fr": "",
             "price": 15.5,
-            "barcode": "000000014437",
+            "barcode": "9981240354",
             "category": "Books",
             "description": "Book: الرائد في التربية الاسلامية  السنة الثالثة اعدادي",
             "description_ar": "كتاب: الرائد في التربية الاسلامية  السنة الثالثة اعدادي",
@@ -1206,7 +1206,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149204Z",
             "updated_at": "2025-11-08T18:49:33.149205Z",
-            "image_url": ""
+            "image_url": "9981240354.jpg"
         },
         {
             "id": 72,
@@ -1214,7 +1214,7 @@
             "name_ar": "في رحاب اللغة العربية السنة الثانية ابتدائي",
             "name_fr": "",
             "price": 18.0,
-            "barcode": "000000022805",
+            "barcode": "9789954699263",
             "category": "Books",
             "description": "Book: في رحاب اللغة العربية السنة الثانية ابتدائي",
             "description_ar": "كتاب: في رحاب اللغة العربية السنة الثانية ابتدائي",
@@ -1223,7 +1223,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149212Z",
             "updated_at": "2025-11-08T18:49:33.149214Z",
-            "image_url": ""
+            "image_url": "9789954699263.jpg"
         },
         {
             "id": 73,
@@ -1231,7 +1231,7 @@
             "name_ar": "",
             "name_fr": "Bled conjugaison éd hachette",
             "price": 122.0,
-            "barcode": "000000038041",
+            "barcode": "9782017151067",
             "category": "Books",
             "description": "Book: Bled conjugaison éd hachette",
             "description_ar": "",
@@ -1240,15 +1240,15 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149219Z",
             "updated_at": "2025-11-08T18:49:33.149221Z",
-            "image_url": ""
+            "image_url": "9782017151067.jpg"
         },
         {
             "id": 74,
             "name": "Etincelle  Physique chimie 2ème A.C manuel de l'élève",
             "name_ar": "",
             "name_fr": "Etincelle  Physique chimie 2ème A.C manuel de l'élève",
-            "price": 35.0,
-            "barcode": "000000013148",
+            "price": 90.0,
+            "barcode": "9789954742006",
             "category": "Books",
             "description": "Book: Etincelle  Physique chimie 2ème A.C manuel de l'élève",
             "description_ar": "",
@@ -1257,7 +1257,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149226Z",
             "updated_at": "2025-11-08T18:49:33.149228Z",
-            "image_url": ""
+            "image_url": "9789954742006.jpg"
         },
         {
             "id": 75,
@@ -1265,7 +1265,7 @@
             "name_ar": "",
             "name_fr": "Pixel informatique 6",
             "price": 82.0,
-            "barcode": "000000013294",
+            "barcode": "9789920914864",
             "category": "Books",
             "description": "Book: Pixel informatique 6",
             "description_ar": "",
@@ -1274,15 +1274,15 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149233Z",
             "updated_at": "2025-11-08T18:49:33.149235Z",
-            "image_url": ""
+            "image_url": "9789920914864.jpg"
         },
         {
             "id": 76,
             "name": "Les cahiers de la Luciole CE1 adapte au programme Marocain",
             "name_ar": "",
             "name_fr": "Les cahiers de la Luciole CE1 adapte au programme Marocain",
-            "price": 81.0,
-            "barcode": "000000022570",
+            "price": 82,
+            "barcode": "2218944030",
             "category": "Books",
             "description": "Book: Les cahiers de la Luciole CE1 adapte au programme Marocain",
             "description_ar": "",
@@ -1291,7 +1291,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149243Z",
             "updated_at": "2025-11-08T18:49:33.149245Z",
-            "image_url": ""
+            "image_url": "2218944030.jpg"
         },
         {
             "id": 77,
@@ -1299,7 +1299,7 @@
             "name_ar": "",
             "name_fr": "Les Cahiers Istra Sciences CM2",
             "price": 90.0,
-            "barcode": "000000029144",
+            "barcode": "9782014006315",
             "category": "Books",
             "description": "Book: Les Cahiers Istra Sciences CM2",
             "description_ar": "",
@@ -1308,7 +1308,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149251Z",
             "updated_at": "2025-11-08T18:49:33.149253Z",
-            "image_url": ""
+            "image_url": "9782014006315.jpg"
         },
         {
             "id": 78,
@@ -1316,7 +1316,7 @@
             "name_ar": "المنير في التربية الاسلامية 2 اعدادي",
             "name_fr": "",
             "price": 14.0,
-            "barcode": "000000024063",
+            "barcode": "9789954627518",
             "category": "Books",
             "description": "Book: المنير في التربية الاسلامية 2 اعدادي",
             "description_ar": "كتاب: المنير في التربية الاسلامية 2 اعدادي",
@@ -1325,7 +1325,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149259Z",
             "updated_at": "2025-11-08T18:49:33.149261Z",
-            "image_url": ""
+            "image_url": "9789954627518.jpg"
         },
         {
             "id": 79,
@@ -1333,7 +1333,7 @@
             "name_ar": "منار الاجتماعيات السنة الثالثة اعدادي",
             "name_fr": "",
             "price": 25.0,
-            "barcode": "000000014436",
+            "barcode": "9789954436066",
             "category": "Books",
             "description": "Book: منار الاجتماعيات السنة الثالثة اعدادي",
             "description_ar": "كتاب: منار الاجتماعيات السنة الثالثة اعدادي",
@@ -1342,7 +1342,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149267Z",
             "updated_at": "2025-11-08T18:49:33.149269Z",
-            "image_url": ""
+            "image_url": "9789954436066.jpg"
         },
         {
             "id": 80,
@@ -1350,7 +1350,7 @@
             "name_ar": "الجيد في الرياضيات للسنة الرابعة من التعليم الابتدائي",
             "name_fr": "",
             "price": 13.0,
-            "barcode": "000000022583",
+            "barcode": "9782747309783",
             "category": "Books",
             "description": "Book: الجيد في الرياضيات للسنة الرابعة من التعليم الابتدائي",
             "description_ar": "كتاب: الجيد في الرياضيات للسنة الرابعة من التعليم الابتدائي",
@@ -1359,7 +1359,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149275Z",
             "updated_at": "2025-11-08T18:49:33.149276Z",
-            "image_url": ""
+            "image_url": "9782747309783"
         },
         {
             "id": 81,
@@ -1367,7 +1367,7 @@
             "name_ar": "",
             "name_fr": "Collection Sigma physique chimie 3AC documents couleurs",
             "price": 30.0,
-            "barcode": "000000022905",
+            "barcode": "9789920788038",
             "category": "Books",
             "description": "Book: Collection Sigma physique chimie 3AC documents couleurs",
             "description_ar": "",
@@ -1376,7 +1376,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149282Z",
             "updated_at": "2025-11-08T18:49:33.149284Z",
-            "image_url": ""
+            "image_url": "9789920788038.jpg"
         },
         {
             "id": 82,
@@ -1384,7 +1384,7 @@
             "name_ar": "مرشدي في اللغة العربية الثانية اعدادي",
             "name_fr": "",
             "price": 23.0,
-            "barcode": "000000023197",
+            "barcode": "9781000130713",
             "category": "Books",
             "description": "Book: مرشدي في اللغة العربية الثانية اعدادي",
             "description_ar": "كتاب: مرشدي في اللغة العربية الثانية اعدادي",
@@ -1393,7 +1393,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149289Z",
             "updated_at": "2025-11-08T18:49:33.149291Z",
-            "image_url": ""
+            "image_url": "9781000130713.jpg"
         },
         {
             "id": 83,
@@ -1401,7 +1401,7 @@
             "name_ar": "A5 مرشدي الي واجباتي المدرسية",
             "name_fr": "",
             "price": 22.0,
-            "barcode": "000000023798",
+            "barcode": "9789920948005",
             "category": "Books",
             "description": "Book: A5 مرشدي الي واجباتي المدرسية",
             "description_ar": "كتاب: A5 مرشدي الي واجباتي المدرسية",
@@ -1410,7 +1410,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149296Z",
             "updated_at": "2025-11-08T18:49:33.149298Z",
-            "image_url": ""
+            "image_url": "9789920948005.jpg"
         },
         {
             "id": 84,
@@ -1418,7 +1418,7 @@
             "name_ar": "المفيد في الكتابة خط-نقل-املاء-تعبير كتابي",
             "name_fr": "",
             "price": 14.0,
-            "barcode": "000000022804",
+            "barcode": "9789920784344",
             "category": "Books",
             "description": "Book: المفيد في الكتابة خط-نقل-املاء-تعبير كتابي",
             "description_ar": "كتاب: المفيد في الكتابة خط-نقل-املاء-تعبير كتابي",
@@ -1427,7 +1427,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149307Z",
             "updated_at": "2025-11-08T18:49:33.149309Z",
-            "image_url": ""
+            "image_url": "9789920784344.jpg"
         },
         {
             "id": 85,
@@ -1435,7 +1435,7 @@
             "name_ar": "",
             "name_fr": "Fun for starters SB+WB 4th edition",
             "price": 149.0,
-            "barcode": "000000013185",
+            "barcode": "9781316617465",
             "category": "Books",
             "description": "Book: Fun for starters SB+WB 4th edition",
             "description_ar": "",
@@ -1444,7 +1444,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149318Z",
             "updated_at": "2025-11-08T18:49:33.149320Z",
-            "image_url": ""
+            "image_url": "9781316617465.jpg"
         },
         {
             "id": 86,
@@ -1452,7 +1452,7 @@
             "name_ar": "",
             "name_fr": "Minibus 5/6 ans mon fichier de mathématiques et de découverte du monde GS + Minibus 5/6 Mon cahier de graphisme",
             "price": 149.0,
-            "barcode": "000000037707",
+            "barcode": "9782753110618",
             "category": "Books",
             "description": "Book: Minibus 5/6 ans mon fichier de mathématiques et de découverte du monde GS + Minibus 5/6 Mon cahier de graphisme",
             "description_ar": "",
@@ -1461,7 +1461,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149330Z",
             "updated_at": "2025-11-08T18:49:33.149332Z",
-            "image_url": ""
+            "image_url": "9782753110618.jpg"
         },
         {
             "id": 87,
@@ -1469,7 +1469,7 @@
             "name_ar": "",
             "name_fr": "Collection Minibus moyenne section  4-5 ans",
             "price": 225.0,
-            "barcode": "000000012625",
+            "barcode": "9782753110618",
             "category": "Books",
             "description": "Book: Collection Minibus moyenne section  4-5 ans",
             "description_ar": "",
@@ -1478,7 +1478,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149337Z",
             "updated_at": "2025-11-08T18:49:33.149339Z",
-            "image_url": ""
+            "image_url": "9782753110618.jpg"
         },
         {
             "id": 88,
@@ -1486,7 +1486,7 @@
             "name_ar": "",
             "name_fr": "Collection sigma SVT 3AC documents couleurs",
             "price": 30.0,
-            "barcode": "000000022904",
+            "barcode": "9789920788007",
             "category": "Books",
             "description": "Book: Collection sigma SVT 3AC documents couleurs",
             "description_ar": "",
@@ -1495,7 +1495,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149345Z",
             "updated_at": "2025-11-08T18:49:33.149346Z",
-            "image_url": ""
+            "image_url": "9789920788007.jpg"
         },
         {
             "id": 89,
@@ -1503,7 +1503,7 @@
             "name_ar": "الأساسي في اللغة العربية السنة الثالثة اعدادي",
             "name_fr": "",
             "price": 25.0,
-            "barcode": "000000012939",
+            "barcode": "9789954416082",
             "category": "Books",
             "description": "Book: الأساسي في اللغة العربية السنة الثالثة اعدادي",
             "description_ar": "كتاب: الأساسي في اللغة العربية السنة الثالثة اعدادي",
@@ -1512,7 +1512,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149354Z",
             "updated_at": "2025-11-08T18:49:33.149356Z",
-            "image_url": ""
+            "image_url": "9789954416082.jpg"
         },
         {
             "id": 90,
@@ -1520,7 +1520,7 @@
             "name_ar": "",
             "name_fr": "Archipel maths 3eme année ( edition moynier) CE2",
             "price": 79.0,
-            "barcode": "000000012980",
+            "barcode": "9789954075241",
             "category": "Books",
             "description": "Book: Archipel maths 3eme année ( edition moynier) CE2",
             "description_ar": "",
@@ -1529,7 +1529,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149363Z",
             "updated_at": "2025-11-08T18:49:33.149365Z",
-            "image_url": ""
+            "image_url": "9789954075241.jpg"
         },
         {
             "id": 91,
@@ -1537,7 +1537,7 @@
             "name_ar": "",
             "name_fr": "Collection sigma SVT 2AC documents en couleurs",
             "price": 30.0,
-            "barcode": "000000022908",
+            "barcode": "9789920788014",
             "category": "Books",
             "description": "Book: Collection sigma SVT 2AC documents en couleurs",
             "description_ar": "",
@@ -1546,7 +1546,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149371Z",
             "updated_at": "2025-11-08T18:49:33.149373Z",
-            "image_url": ""
+            "image_url": "9789920788014.jpg"
         },
         {
             "id": 92,
@@ -1554,7 +1554,7 @@
             "name_ar": "",
             "name_fr": "Collection Minibus petit section 3/4",
             "price": 225.0,
-            "barcode": "000000012621",
+            "barcode": "9782753110717",
             "category": "Books",
             "description": "Book: Collection Minibus petit section 3/4",
             "description_ar": "",
@@ -1563,7 +1563,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149378Z",
             "updated_at": "2025-11-08T18:49:33.149380Z",
-            "image_url": ""
+            "image_url": "9782753110717.jpg"
         },
         {
             "id": 93,
@@ -1571,7 +1571,7 @@
             "name_ar": "",
             "name_fr": "Rives bleues 3e.AC",
             "price": 215.0,
-            "barcode": "000000012843",
+            "barcode": "2218984253",
             "category": "Books",
             "description": "Book: Rives bleues 3e.AC",
             "description_ar": "",
@@ -1580,7 +1580,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149385Z",
             "updated_at": "2025-11-08T18:49:33.149387Z",
-            "image_url": ""
+            "image_url": "2218984253.jpg"
         },
         {
             "id": 94,
@@ -1588,7 +1588,7 @@
             "name_ar": "المنير في التربية الاسلامية السنة السادسة من التعليم الابتدائي",
             "name_fr": "",
             "price": 11.5,
-            "barcode": "000000014501",
+            "barcode": "9789954627525",
             "category": "Books",
             "description": "Book: المنير في التربية الاسلامية السنة السادسة من التعليم الابتدائي",
             "description_ar": "كتاب: المنير في التربية الاسلامية السنة السادسة من التعليم الابتدائي",
@@ -1597,15 +1597,15 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149393Z",
             "updated_at": "2025-11-08T18:49:33.149395Z",
-            "image_url": ""
+            "image_url": "9789954627525.jpg"
         },
         {
             "id": 95,
             "name": "مورد التارخ و الجغرافيا السنة الاولى باكلوريا",
             "name_ar": "مورد التارخ و الجغرافيا السنة الاولى باكلوريا",
-            "name_fr": "",
+            "name_fr": "9789954201244",
             "price": 40.0,
-            "barcode": "000000038723",
+            "barcode": "",
             "category": "Books",
             "description": "Book: مورد التارخ و الجغرافيا السنة الاولى باكلوريا",
             "description_ar": "كتاب: مورد التارخ و الجغرافيا السنة الاولى باكلوريا",
@@ -1614,7 +1614,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149401Z",
             "updated_at": "2025-11-08T18:49:33.149403Z",
-            "image_url": ""
+            "image_url": "9789954201244.jpg"
         },
         {
             "id": 96,
@@ -1622,7 +1622,7 @@
             "name_ar": "سلسلة الأمة في قواعد اللغة العربية الميسرة القراءة بالطريقة المقطعية السنة الأولى ابتدائي",
             "name_fr": "",
             "price": 30.0,
-            "barcode": "000000012874",
+            "barcode": "9954460748",
             "category": "Books",
             "description": "Book: سلسلة الأمة في قواعد اللغة العربية الميسرة القراءة بالطريقة المقطعية السنة الأولى ابتدائي",
             "description_ar": "كتاب: سلسلة الأمة في قواعد اللغة العربية الميسرة القراءة بالطريقة المقطعية السنة الأولى ابتدائي",
@@ -1631,7 +1631,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149410Z",
             "updated_at": "2025-11-08T18:49:33.149412Z",
-            "image_url": ""
+            "image_url": "9954460748.jpg"
         },
         {
             "id": 97,
@@ -1639,7 +1639,7 @@
             "name_ar": "",
             "name_fr": "Collection Sigma physique chimie 2AC documents couleurs",
             "price": 30.0,
-            "barcode": "000000022907",
+            "barcode": "9789920788045",
             "category": "Books",
             "description": "Book: Collection Sigma physique chimie 2AC documents couleurs",
             "description_ar": "",
@@ -1648,7 +1648,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149418Z",
             "updated_at": "2025-11-08T18:49:33.149419Z",
-            "image_url": ""
+            "image_url": "9789920788045.jpg"
         },
         {
             "id": 98,
@@ -1656,7 +1656,7 @@
             "name_ar": "في رحاب الفلسفة الثانية باكلوريا",
             "name_fr": "",
             "price": 33.0,
-            "barcode": "000000023330",
+            "barcode": "9954436790",
             "category": "Books",
             "description": "Book: في رحاب الفلسفة الثانية باكلوريا",
             "description_ar": "كتاب: في رحاب الفلسفة الثانية باكلوريا",
@@ -1665,7 +1665,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149425Z",
             "updated_at": "2025-11-08T18:49:33.149427Z",
-            "image_url": ""
+            "image_url": "9954436790.jpg"
         },
         {
             "id": 99,
@@ -1673,7 +1673,7 @@
             "name_ar": "في رحاب الفلسفة السنة 1  باك علوم",
             "name_fr": "",
             "price": 23.0,
-            "barcode": "000000038842",
+            "barcode": "9789954455067",
             "category": "Books",
             "description": "Book: في رحاب الفلسفة السنة 1  باك علوم",
             "description_ar": "كتاب: في رحاب الفلسفة السنة 1  باك علوم",
@@ -1682,7 +1682,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149432Z",
             "updated_at": "2025-11-08T18:49:33.149434Z",
-            "image_url": ""
+            "image_url": "9789954455067.jpg"
         },
         {
             "id": 100,
@@ -1690,7 +1690,7 @@
             "name_ar": "منار اللغة العربية السنة الأولى باكلوريا مسالك العلوم",
             "name_fr": "",
             "price": 32.0,
-            "barcode": "000000013574",
+            "barcode": "9954436359",
             "category": "Books",
             "description": "Book: منار اللغة العربية السنة الأولى باكلوريا مسالك العلوم",
             "description_ar": "كتاب: منار اللغة العربية السنة الأولى باكلوريا مسالك العلوم",
@@ -1699,7 +1699,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149439Z",
             "updated_at": "2025-11-08T18:49:33.149441Z",
-            "image_url": ""
+            "image_url": "9954436359.jpg"
         },
         {
             "id": 101,
@@ -1707,7 +1707,7 @@
             "name_ar": "",
             "name_fr": "Etincelle SVT 1er A.C  manuel d'élève",
             "price": 35.0,
-            "barcode": "000000013941",
+            "barcode": "9789920788120",
             "category": "Books",
             "description": "Book: Etincelle SVT 1er A.C  manuel d'élève",
             "description_ar": "",
@@ -1716,7 +1716,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149447Z",
             "updated_at": "2025-11-08T18:49:33.149449Z",
-            "image_url": ""
+            "image_url": "9789920788120.jpg"
         },
         {
             "id": 102,
@@ -1724,7 +1724,7 @@
             "name_ar": "",
             "name_fr": "Etincelle physique chimie 1 A.C manuel de l'élève",
             "price": 35.0,
-            "barcode": "000000022628",
+            "barcode": "9789920788885",
             "category": "Books",
             "description": "Book: Etincelle physique chimie 1 A.C manuel de l'élève",
             "description_ar": "",
@@ -1733,7 +1733,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149454Z",
             "updated_at": "2025-11-08T18:49:33.149456Z",
-            "image_url": ""
+            "image_url": "9789920788885.jpg"
         },
         {
             "id": 103,
@@ -1741,7 +1741,7 @@
             "name_ar": "",
             "name_fr": "Les cahiers de la luciole CP 2021",
             "price": 70.0,
-            "barcode": "000000023292",
+            "barcode": "2401076050",
             "category": "Books",
             "description": "Book: Les cahiers de la luciole CP 2021",
             "description_ar": "",
@@ -1750,7 +1750,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149461Z",
             "updated_at": "2025-11-08T18:49:33.149463Z",
-            "image_url": ""
+            "image_url": "2401076050.jpg"
         },
         {
             "id": 104,
@@ -1758,7 +1758,7 @@
             "name_ar": "",
             "name_fr": "Kid's zone 1 Pupil's Book + Activity Book",
             "price": 240.0,
-            "barcode": "000000024095",
+            "barcode": "9789925312092",
             "category": "Books",
             "description": "Book: Kid's zone 1 Pupil's Book + Activity Book",
             "description_ar": "",
@@ -1767,7 +1767,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149468Z",
             "updated_at": "2025-11-08T18:49:33.149469Z",
-            "image_url": ""
+            "image_url": "9789925312092.jpg"
         },
         {
             "id": 105,
@@ -1775,7 +1775,7 @@
             "name_ar": "",
             "name_fr": "Etincelle SVT 2 A.C manuel d'élève",
             "price": 35.0,
-            "barcode": "000000014461",
+            "barcode": "9789954968413",
             "category": "Books",
             "description": "Book: Etincelle SVT 2 A.C manuel d'élève",
             "description_ar": "",
@@ -1784,7 +1784,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149475Z",
             "updated_at": "2025-11-08T18:49:33.149476Z",
-            "image_url": ""
+            "image_url": "9789954968413.jpg"
         },
         {
             "id": 106,
@@ -1792,7 +1792,7 @@
             "name_ar": "",
             "name_fr": "Kid's zone 2 Pupil's Book + Activity Book",
             "price": 240.0,
-            "barcode": "000000022899",
+            "barcode": "9789925312252",
             "category": "Books",
             "description": "Book: Kid's zone 2 Pupil's Book + Activity Book",
             "description_ar": "",
@@ -1801,7 +1801,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149483Z",
             "updated_at": "2025-11-08T18:49:33.149485Z",
-            "image_url": ""
+            "image_url": "9789925312252.jpg"
         },
         {
             "id": 107,
@@ -1809,7 +1809,7 @@
             "name_ar": "",
             "name_fr": "Les cahiers ISTRA sciences et technologie CE6 édition 2022",
             "price": 90.0,
-            "barcode": "000000028847",
+            "barcode": "2014006326",
             "category": "Books",
             "description": "Book: Les cahiers ISTRA sciences et technologie CE6 édition 2022",
             "description_ar": "",
@@ -1818,7 +1818,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149490Z",
             "updated_at": "2025-11-08T18:49:33.149492Z",
-            "image_url": ""
+            "image_url": "2014006326.jpg"
         },
         {
             "id": 108,
@@ -1826,7 +1826,7 @@
             "name_ar": "",
             "name_fr": "Al moufid en maths 1er AC",
             "price": 49.0,
-            "barcode": "000000023693",
+            "barcode": "9789954613511",
             "category": "Books",
             "description": "Book: Al moufid en maths 1er AC",
             "description_ar": "",
@@ -1835,7 +1835,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149497Z",
             "updated_at": "2025-11-08T18:49:33.149499Z",
-            "image_url": ""
+            "image_url": "9789954613511.jpg"
         },
         {
             "id": 109,
@@ -1843,7 +1843,7 @@
             "name_ar": "",
             "name_fr": "Le nouveau vivre le français ce2",
             "price": 299.0,
-            "barcode": "000000039680",
+            "barcode": "9789953736181",
             "category": "Books",
             "description": "Book: Le nouveau vivre le français ce2",
             "description_ar": "",
@@ -1852,7 +1852,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149504Z",
             "updated_at": "2025-11-08T18:49:33.149506Z",
-            "image_url": ""
+            "image_url": "9789953736181.jpg"
         },
         {
             "id": 110,
@@ -1860,7 +1860,7 @@
             "name_ar": "",
             "name_fr": "Espace-mots cm2 livre français",
             "price": 213.0,
-            "barcode": "000000039686",
+            "barcode": "9782014006063",
             "category": "Books",
             "description": "Book: Espace-mots cm2 livre français",
             "description_ar": "",
@@ -1869,7 +1869,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149513Z",
             "updated_at": "2025-11-08T18:49:33.149514Z",
-            "image_url": ""
+            "image_url": "9782014006063.jpg"
         },
         {
             "id": 111,
@@ -1877,7 +1877,7 @@
             "name_ar": "مرشدي في اللغة العربية المستوى الثالث اعدادي",
             "name_fr": "",
             "price": 25.0,
-            "barcode": "000000012941",
+            "barcode": "",
             "category": "Books",
             "description": "Book: مرشدي في اللغة العربية المستوى الثالث اعدادي",
             "description_ar": "كتاب: مرشدي في اللغة العربية المستوى الثالث اعدادي",
@@ -1894,7 +1894,7 @@
             "name_ar": "",
             "name_fr": "Kid's box 5 ( Pupil's book + activity book )",
             "price": 285.0,
-            "barcode": "000000013206",
+            "barcode": "9781108890038",
             "category": "Books",
             "description": "Book: Kid's box 5 ( Pupil's book + activity book )",
             "description_ar": "",
@@ -1903,7 +1903,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149529Z",
             "updated_at": "2025-11-08T18:49:33.149531Z",
-            "image_url": ""
+            "image_url": "9781108890038.jpg"
         },
         {
             "id": 113,
@@ -1911,7 +1911,7 @@
             "name_ar": "",
             "name_fr": "Think 1 A2 SBK+WBK 2nd Ed",
             "price": 340.0,
-            "barcode": "000000013231",
+            "barcode": "9781108785822",
             "category": "Books",
             "description": "Book: Think 1 A2 SBK+WBK 2nd Ed",
             "description_ar": "",
@@ -1920,7 +1920,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149536Z",
             "updated_at": "2025-11-08T18:49:33.149538Z",
-            "image_url": ""
+            "image_url": "9781108785822.jpg"
         },
         {
             "id": 114,
@@ -1928,7 +1928,7 @@
             "name_ar": "المفيد في الرياضيتت السنة الأولى ابتدائي",
             "name_fr": "",
             "price": 11.0,
-            "barcode": "000000022807",
+            "barcode": "9788874656325",
             "category": "Books",
             "description": "Book: المفيد في الرياضيتت السنة الأولى ابتدائي",
             "description_ar": "كتاب: المفيد في الرياضيتت السنة الأولى ابتدائي",
@@ -1937,7 +1937,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149544Z",
             "updated_at": "2025-11-08T18:49:33.149546Z",
-            "image_url": ""
+            "image_url": "9788874656325.jpg"
         },
         {
             "id": 115,
@@ -1945,7 +1945,7 @@
             "name_ar": "",
             "name_fr": "Pour comprendre les maths ce1 fichiers eleve 1 et 2 + memo + pages matériel éd 2023",
             "price": 174.0,
-            "barcode": "000000039376",
+            "barcode": "9782017081982",
             "category": "Books",
             "description": "Book: Pour comprendre les maths ce1 fichiers eleve 1 et 2 + memo + pages matériel éd 2023",
             "description_ar": "",
@@ -1954,7 +1954,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149552Z",
             "updated_at": "2025-11-08T18:49:33.149554Z",
-            "image_url": ""
+            "image_url": "9782017081982.jpg"
         },
         {
             "id": 116,
@@ -1962,7 +1962,7 @@
             "name_ar": "",
             "name_fr": "les cahiers Istra Questionner le monde CP",
             "price": 78.0,
-            "barcode": "000000012966",
+            "barcode": "9782013947824",
             "category": "Books",
             "description": "Book: les cahiers Istra Questionner le monde CP",
             "description_ar": "",
@@ -1971,7 +1971,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149560Z",
             "updated_at": "2025-11-08T18:49:33.149562Z",
-            "image_url": ""
+            "image_url": "9782013947824.jpg"
         },
         {
             "id": 117,
@@ -1979,7 +1979,7 @@
             "name_ar": "الواضح في النشاط العلمي3 - كتاب التلميذ والتلميذة - السنة الثالثة من التعليم الابتدائي",
             "name_fr": "",
             "price": 11.0,
-            "barcode": "000000021869",
+            "barcode": "9789920768412",
             "category": "Books",
             "description": "Book: الواضح في النشاط العلمي3 - كتاب التلميذ والتلميذة - السنة الثالثة من التعليم الابتدائي",
             "description_ar": "كتاب: الواضح في النشاط العلمي3 - كتاب التلميذ والتلميذة - السنة الثالثة من التعليم الابتدائي",
@@ -1988,7 +1988,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149568Z",
             "updated_at": "2025-11-08T18:49:33.149570Z",
-            "image_url": ""
+            "image_url": "9789920768412.jpg"
         },
         {
             "id": 118,
@@ -1996,7 +1996,7 @@
             "name_ar": "",
             "name_fr": "Coquelicot CP manuel + cahier d'activité + cahier d'écriture",
             "price": 291.0,
-            "barcode": "000000022563",
+            "barcode": "9782753111158",
             "category": "Books",
             "description": "Book: Coquelicot CP manuel + cahier d'activité + cahier d'écriture",
             "description_ar": "",
@@ -2005,7 +2005,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149575Z",
             "updated_at": "2025-11-08T18:49:33.149577Z",
-            "image_url": ""
+            "image_url": "9782753111158.jpg"
         },
         {
             "id": 119,
@@ -2013,7 +2013,7 @@
             "name_ar": "فضاء الاجتماعيات السنة الأولى اعدادي",
             "name_fr": "",
             "price": 21.5,
-            "barcode": "000000022989",
+            "barcode": "9789954200469",
             "category": "Books",
             "description": "Book: فضاء الاجتماعيات السنة الأولى اعدادي",
             "description_ar": "كتاب: فضاء الاجتماعيات السنة الأولى اعدادي",
@@ -2022,7 +2022,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149583Z",
             "updated_at": "2025-11-08T18:49:33.149585Z",
-            "image_url": ""
+            "image_url": "9789954200469.jpg"
         },
         {
             "id": 120,
@@ -2030,7 +2030,7 @@
             "name_ar": "",
             "name_fr": "Aux 4 vents 5/6 GS Livre de l'élève + Cahier d'exercices 1 et 2 + Cahier d'écriture",
             "price": 414.0,
-            "barcode": "000000016572",
+            "barcode": "9786144434086",
             "category": "Books",
             "description": "Book: Aux 4 vents 5/6 GS Livre de l'élève + Cahier d'exercices 1 et 2 + Cahier d'écriture",
             "description_ar": "",
@@ -2039,7 +2039,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149590Z",
             "updated_at": "2025-11-08T18:49:33.149592Z",
-            "image_url": ""
+            "image_url": "9786144434086.jpg"
         },
         {
             "id": 121,
@@ -2047,7 +2047,7 @@
             "name_ar": "الرائد في اللغة العربية جدع مشترك",
             "name_fr": "",
             "price": 27.0,
-            "barcode": "000000022993",
+            "barcode": "9981240370",
             "category": "Books",
             "description": "Book: الرائد في اللغة العربية جدع مشترك",
             "description_ar": "كتاب: الرائد في اللغة العربية جدع مشترك",
@@ -2056,7 +2056,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149597Z",
             "updated_at": "2025-11-08T18:49:33.149599Z",
-            "image_url": ""
+            "image_url": "9981240370.jpg"
         },
         {
             "id": 122,
@@ -2064,7 +2064,7 @@
             "name_ar": "",
             "name_fr": "Etincelle physique chimie  3 A.C manuel de l'élève",
             "price": 35.0,
-            "barcode": "000000022618",
+            "barcode": "9789920788175",
             "category": "Books",
             "description": "Book: Etincelle physique chimie  3 A.C manuel de l'élève",
             "description_ar": "",
@@ -2073,7 +2073,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149606Z",
             "updated_at": "2025-11-08T18:49:33.149607Z",
-            "image_url": ""
+            "image_url": "9789920788175.jpg"
         },
         {
             "id": 123,
@@ -2081,7 +2081,7 @@
             "name_ar": "",
             "name_fr": "informatique et Robotique au Collège 2",
             "price": 90.0,
-            "barcode": "000000029089",
+            "barcode": "9789954740149",
             "category": "Books",
             "description": "Book: informatique et Robotique au Collège 2",
             "description_ar": "",
@@ -2090,7 +2090,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149621Z",
             "updated_at": "2025-11-08T18:49:33.149623Z",
-            "image_url": ""
+            "image_url": "9789954740149.jpg"
         },
         {
             "id": 124,
@@ -2098,7 +2098,7 @@
             "name_ar": "",
             "name_fr": "Espace-mots ce2 livre français + cahier d'activité",
             "price": 307.0,
-            "barcode": "000000033494",
+            "barcode": "9782017009542",
             "category": "Books",
             "description": "Book: Espace-mots ce2 livre français + cahier d'activité",
             "description_ar": "",
@@ -2107,7 +2107,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149629Z",
             "updated_at": "2025-11-08T18:49:33.149631Z",
-            "image_url": ""
+            "image_url": "9782017009542.jpg"
         },
         {
             "id": 125,
@@ -2115,7 +2115,7 @@
             "name_ar": "الأساسي في النشاط العلمي للسنة الأولى من التعليم الإبتدائي",
             "name_fr": "",
             "price": 7.5,
-            "barcode": "000000014060",
+            "barcode": "9789920766012",
             "category": "Books",
             "description": "Book: الأساسي في النشاط العلمي للسنة الأولى من التعليم الإبتدائي",
             "description_ar": "كتاب: الأساسي في النشاط العلمي للسنة الأولى من التعليم الإبتدائي",
@@ -2124,7 +2124,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149637Z",
             "updated_at": "2025-11-08T18:49:33.149639Z",
-            "image_url": ""
+            "image_url": "9789920766012.jpg"
         },
         {
             "id": 126,
@@ -2132,7 +2132,7 @@
             "name_ar": "",
             "name_fr": "Pixel informatique 2e AC",
             "price": 96.0,
-            "barcode": "000000023005",
+            "barcode": "9789954969632",
             "category": "Books",
             "description": "Book: Pixel informatique 2e AC",
             "description_ar": "",
@@ -2141,7 +2141,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149646Z",
             "updated_at": "2025-11-08T18:49:33.149648Z",
-            "image_url": ""
+            "image_url": "9789954969632.jpg"
         },
         {
             "id": 127,
@@ -2149,7 +2149,7 @@
             "name_ar": "المنير في التربية الاسلامية السنة الرابعة ابتدائي",
             "name_fr": "",
             "price": 11.0,
-            "barcode": "000000023489",
+            "barcode": "9789954627532",
             "category": "Books",
             "description": "Book: المنير في التربية الاسلامية السنة الرابعة ابتدائي",
             "description_ar": "كتاب: المنير في التربية الاسلامية السنة الرابعة ابتدائي",
@@ -2158,7 +2158,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149654Z",
             "updated_at": "2025-11-08T18:49:33.149656Z",
-            "image_url": ""
+            "image_url": "9789954627532.jpg"
         },
         {
             "id": 128,
@@ -2166,7 +2166,7 @@
             "name_ar": "",
             "name_fr": "kid's zone 3",
             "price": 240.0,
-            "barcode": "000000023666",
+            "barcode": "9789925311637",
             "category": "Books",
             "description": "Book: kid's zone 3",
             "description_ar": "",
@@ -2175,7 +2175,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149662Z",
             "updated_at": "2025-11-08T18:49:33.149663Z",
-            "image_url": ""
+            "image_url": "9789925311637.jpg"
         },
         {
             "id": 129,
@@ -2183,7 +2183,7 @@
             "name_ar": "",
             "name_fr": "LE P'tit matheux CE1",
             "price": 98.0,
-            "barcode": "000000028666",
+            "barcode": "9789954693179",
             "category": "Books",
             "description": "Book: LE P'tit matheux CE1",
             "description_ar": "",
@@ -2192,7 +2192,7 @@
             "is_active": true,
             "created_at": "2025-11-08T18:49:33.149669Z",
             "updated_at": "2025-11-08T18:49:33.149671Z",
-            "image_url": ""
+            "image_url": "9789954693179.jpg"
         },
         {
             "id": 130,
@@ -2200,7 +2200,7 @@
             "name_ar": "",
             "name_fr": "Mon grand labo en PC 1er AC",
             "price": 40.0,
-            "barcode": "000000039362",
+            "barcode": "",
             "category": "Books",
             "description": "Book: Mon grand labo en PC 1er AC",
             "description_ar": "",
@@ -2217,7 +2217,7 @@
             "name_ar": "",
             "name_fr": "Pixel informatique 1ére AC",
             "price": 96.0,
-            "barcode": "000000022793",
+            "barcode": "",
             "category": "Books",
             "description": "Book: Pixel informatique 1ére AC",
             "description_ar": "",
@@ -2234,7 +2234,7 @@
             "name_ar": "الدليل في تطبيقات اللغة العربية المستوى الخامس ابتدائي",
             "name_fr": "",
             "price": 45.0,
-            "barcode": "000000022823",
+            "barcode": "",
             "category": "Books",
             "description": "Book: الدليل في تطبيقات اللغة العربية المستوى الخامس ابتدائي",
             "description_ar": "كتاب: الدليل في تطبيقات اللغة العربية المستوى الخامس ابتدائي",
@@ -2251,7 +2251,7 @@
             "name_ar": "",
             "name_fr": "Kid's Zone 4 student's book + workbook",
             "price": 240.0,
-            "barcode": "000000023060",
+            "barcode": "",
             "category": "Books",
             "description": "Book: Kid's Zone 4 student's book + workbook",
             "description_ar": "",
@@ -2268,7 +2268,7 @@
             "name_ar": "فضاء النشاط العلمي للسنة الرابعة من التعليم الإبتدائي",
             "name_fr": "",
             "price": 11.0,
-            "barcode": "000000014497",
+            "barcode": "",
             "category": "Books",
             "description": "Book: فضاء النشاط العلمي للسنة الرابعة من التعليم الإبتدائي",
             "description_ar": "كتاب: فضاء النشاط العلمي للسنة الرابعة من التعليم الإبتدائي",
@@ -2285,7 +2285,7 @@
             "name_ar": "المفيد في الرياضيات السنة الرابعة ابتدائي",
             "name_fr": "",
             "price": 13.0,
-            "barcode": "000000022836",
+            "barcode": "",
             "category": "Books",
             "description": "Book: المفيد في الرياضيات السنة الرابعة ابتدائي",
             "description_ar": "كتاب: المفيد في الرياضيات السنة الرابعة ابتدائي",
@@ -2302,7 +2302,7 @@
             "name_ar": "",
             "name_fr": "Archipel Maths 6AP fichier élève",
             "price": 79.0,
-            "barcode": "000000022902",
+            "barcode": "",
             "category": "Books",
             "description": "Book: Archipel Maths 6AP fichier élève",
             "description_ar": "",
@@ -2336,7 +2336,7 @@
             "name_ar": "",
             "name_fr": "Pour comprendre les maths CP fichier eleve 1 et 2+ memo+pages matériel ed 2022",
             "price": 183.0,
-            "barcode": "000000029531",
+            "barcode": "",
             "category": "Books",
             "description": "Book: Pour comprendre les maths CP fichier eleve 1 et 2+ memo+pages matériel ed 2022",
             "description_ar": "",
@@ -2353,7 +2353,7 @@
             "name_ar": "",
             "name_fr": "Mon grand labo en SVT 1er AC",
             "price": 40.0,
-            "barcode": "000000039358",
+            "barcode": "",
             "category": "Books",
             "description": "Book: Mon grand labo en SVT 1er AC",
             "description_ar": "",
@@ -2370,7 +2370,7 @@
             "name_ar": "المفيد في النشاط العلمي للسنة السادسة إبتدائي",
             "name_fr": "",
             "price": 11.0,
-            "barcode": "000000013100",
+            "barcode": "",
             "category": "Books",
             "description": "Book: المفيد في النشاط العلمي للسنة السادسة إبتدائي",
             "description_ar": "كتاب: المفيد في النشاط العلمي للسنة السادسة إبتدائي",
@@ -2387,7 +2387,7 @@
             "name_ar": "",
             "name_fr": "La cité des sciences CP",
             "price": 51.5,
-            "barcode": "000000023183",
+            "barcode": "",
             "category": "Books",
             "description": "Book: La cité des sciences CP",
             "description_ar": "",
@@ -2404,7 +2404,7 @@
             "name_ar": "في رحاب التربية الاسلامية السنة الثالثة اعدادي",
             "name_fr": "",
             "price": 15.5,
-            "barcode": "000000023646",
+            "barcode": "",
             "category": "Books",
             "description": "Book: في رحاب التربية الاسلامية السنة الثالثة اعدادي",
             "description_ar": "كتاب: في رحاب التربية الاسلامية السنة الثالثة اعدادي",
@@ -2421,7 +2421,7 @@
             "name_ar": "",
             "name_fr": "Pour comprendre les maths CE1 Mémo version français ISBN / 978-2-01-627233-6",
             "price": 173.0,
-            "barcode": "000000014390",
+            "barcode": "",
             "category": "Books",
             "description": "Book: Pour comprendre les maths CE1 Mémo version français ISBN / 978-2-01-627233-6",
             "description_ar": "",
@@ -2438,7 +2438,7 @@
             "name_ar": "",
             "name_fr": "Le bibliobus  le chat botté et autres histoires",
             "price": 119.0,
-            "barcode": "000000012768",
+            "barcode": "",
             "category": "Books",
             "description": "Book: Le bibliobus  le chat botté et autres histoires",
             "description_ar": "",
